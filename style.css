@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --base-col: #0C1446;
+    --primary-col: #87ACA3;
+    --secondary-col:#2B7C85 ;
+    --accent-col: #175873;
+}
+
