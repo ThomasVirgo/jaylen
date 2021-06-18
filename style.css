@@ -9,8 +9,12 @@
     --primary-col: #87ACA3;
     --secondary-col:#2B7C85 ;
     --accent-col: #175873;
+    --background-col:#c0eee3;
 }
 
+body{
+    background-color: var(--background-col);
+}
 
 img{
     width:50vw;
